@@ -7,3 +7,4 @@ and will include the common logic and authentication required. Apart from that, 
 - ssl termination
 - load balancing
 - authentication.
+- Rate Limiting
